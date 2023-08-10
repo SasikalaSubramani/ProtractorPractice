@@ -1,0 +1,17 @@
+{
+  "name": "protractorcodepractice",
+  "version": "1.0.0",
+  "description": "test code",
+  "main": "index.js",
+
+  "dependencies": {
+    "protractor": "^7.0.0",
+    "jasmine": "^4.6.0"
+  },
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sasikala",
+  "license": "ISC"
+}
